@@ -214,4 +214,12 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
+
+  .logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 50px;
+    width: 50px;
+  }
 }
